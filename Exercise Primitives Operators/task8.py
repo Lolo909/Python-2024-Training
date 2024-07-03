@@ -1,6 +1,6 @@
 print("Insert sentence:")
 sentence = input();
-print()
+print();
 print(sentence.lower());
 print(sentence.capitalize());
 print(sentence.upper());

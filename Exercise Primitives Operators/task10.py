@@ -18,6 +18,6 @@ secondSide = int(input());
 
 hypotenuse = math.sqrt(firstSide**2 + secondSide**2);
 
-print("The hypotenuse of the triangle is ", hypotenuse);
+print("The hypotenuse of the triangle is ",hypotenuse);
 
 
