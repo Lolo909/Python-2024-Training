@@ -1,3 +1,7 @@
+# Task 5: Guess the Number
+# Generate a random number between 1 and 10. Ask the user to guess the number using a while loop. 
+# Provide feedback (too high or too low) until they guess correctly.
+
 import random
 
 numbers = []

@@ -1,7 +1,7 @@
 
-isTheInputCorrect = False;
+isTheInputCorrect = False
 
-age = "";
+age = ""
 
 while(not isTheInputCorrect):
     print("Insert your age:")
@@ -9,15 +9,15 @@ while(not isTheInputCorrect):
 
     if not age.isdigit():
         print("Enter valid input!")
-        continue;
+        continue
     
     age = int(age)
 
     if age<0:
         print("Age can't be negative")
-        continue;
+        continue
  
-    isTheInputCorrect = True;
+    isTheInputCorrect = True
     
 
 if age <= 12:
