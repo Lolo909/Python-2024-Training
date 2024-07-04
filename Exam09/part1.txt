@@ -1,0 +1,61 @@
+Part 1: Multiple Choice Questions (2 points each) Choose the best answer for each question.
+
+Which of the following is not a valid variable name in Python?
+a) my_variable
+b) 123variable
+c) _variable
+d) variable123
+
+Answer: b) (Can't start with number)
+
+
+What will be the value of the result after the following code executes?
+x = 10
+y = 5
+result = x % y
+
+a) 2
+b) 0
+c) 5
+d) 1
+
+Answer: a)
+
+In Python, which of the following is a scalar data type?
+a) List
+b) Tuple
+c) Dictionary
+d) Integer
+
+Answer d)
+
+
+How many times will the following for loop iterate?
+for i in range(3):
+    for j in range(2):
+        print(i, j)
+
+a) 2
+b) 3
+c) 4
+d) 6
+
+Answer: d)
+
+Which of the following is a correct way to check if a variable x is equal to 10?
+a) if x == 10:
+b) if x = 10:
+c) if x != 10:
+d) if x > 10:
+
+Answer: a)
+
+What is the result of the following expression?
+"Hello" + "World"
+
+a) "HelloWorld"
+b) "Hello World"
+c) "WorldHello"
+d) Error
+
+Answer: a)

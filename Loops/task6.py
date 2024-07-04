@@ -1,3 +1,8 @@
+# Task 6: Password Checker
+# Create a simple password checker program using a while loop. Ask the user to enter a password, 
+# and keep asking until they enter the correct password "python123."
+
+
 theSecretPassword = "python123"
 
 isPasswordCorrect = False;
