@@ -1,0 +1,6 @@
+
+Part 3: Bonus Question (5 points)
+What is the purpose of the break statement in Python? Provide an example of when it might be used.
+
+
+Answer: The purpose of the break statement is to stop loops like for loop and while loop.
