@@ -11,6 +11,10 @@ person_info = {
     "phone":"08812123312"
 }
 
-person_info.update("name")
+print(person_info)
+
+person_info["full_name"] = person_info.pop("name")
+person_info["email_address"] = person_info.pop("email")
+person_info["contact_number"] = person_info.pop("phone")
 
 print(person_info)

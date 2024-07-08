@@ -1,0 +1,39 @@
+
+Which of the following data structures is immutable in Python?
+A) Tuple
+B) Set
+C) Dictionary
+D) List
+
+Answer: a
+
+What is the output of the following code?
+my_set = {1, 2, 3, 4}
+my_set.discard(5)
+print(len(my_set))
+
+A) Exception
+B) 3
+C) 4
+D) 5
+
+Answer: c
+
+In a Python dictionary, which of the following can be used as keys?
+A) Lists
+B) Tuples
+C) Sets
+D) All of the above
+E) None of the above
+
+Answer: e
+
+Which method can be used to add a new key-value pair to a Python dictionary?
+A) append()
+B) add()
+C) insert()
+D) update()
+
+Answer: D
+
+
