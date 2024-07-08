@@ -19,7 +19,7 @@ b) 0
 c) 5
 d) 1
 
-Answer: a)
+Answer: b)
 
 In Python, which of the following is a scalar data type?
 a) List
