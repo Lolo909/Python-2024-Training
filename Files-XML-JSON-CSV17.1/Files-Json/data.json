@@ -1,0 +1,48 @@
+{
+    "library": {
+      "books": [
+        {
+          "id": 1,
+          "title": "Introduction to XML",
+          "author": {
+            "name": "John Author",
+            "birth_year": 1980
+          },
+          "publication": {
+            "publisher": "Tech Books Publishing",
+            "year": 2022
+          }
+        },
+        {
+          "id": 2,
+          "title": "Data Structures in Java",
+          "author": {
+            "name": "Jane Writer",
+            "birth_year": 1975
+          },
+          "publication": {
+            "publisher": "Code Press",
+            "year": 2021
+          }
+        }
+      ],
+      "magazines": [
+        {
+          "id": 3,
+          "title": "Science Today",
+          "editor": {
+            "name": "Alan Editor",
+            "birth_year": 1985
+          },
+          "publication": {
+            "publisher": "Science Publications",
+            "month": "July",
+            "year": 2023
+          }
+        }
+      ]
+    }
+  }
+  
+  
+  

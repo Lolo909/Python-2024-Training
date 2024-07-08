@@ -1,0 +1,5 @@
+Bonus Question: 
+What is the key difference between a set and a dictionary in Python? Provide a brief explanation.
+
+Sets are lists where information cannot be repeated. 
+Dictionaries are also like lists but the information is divided into key-value, as the keys are unique.

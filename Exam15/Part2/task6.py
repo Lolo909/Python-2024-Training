@@ -73,5 +73,5 @@ print("---------------")
 print(studentNameWithTheHighestScore + " is the student with the highest average score of " + "{:.2f}".format(highestAverageScore))
 
 print("---------------")
-print("All subject that have been taken by the sudent:")
+print("All subject that have been taken by the sudents:")
 print(allSubjectThatAllStudentsHaveTaken)
