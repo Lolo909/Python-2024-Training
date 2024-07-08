@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book id="1">
+	<title>Introduction to XML</title>
+	<author>
+  	<name>John Author</name>
+  	<birth_year>1980</birth_year>
+	</author>
+	<publication>
+  	<publisher>Tech Books Publishing</publisher>
+  	<year>2022</year>
+	</publication>
+  </book>
+ 
+  <book id="2">
+	<title>Data Structures in Java</title>
+	<author>
+  	<name>Jane Writer</name>
+  	<birth_year>1975</birth_year>
+	</author>
+	<publication>
+  	<publisher>Code Press</publisher>
+  	<year>2021</year>
+	</publication>
+  </book>
+ 
+  <magazine id="3">
+	<title>Science Today</title>
+	<editor>
+  	<name>Alan Editor</name>
+  	<birth_year>1985</birth_year>
+	</editor>
+	<publication>
+  	<publisher>Science Publications</publisher>
+  	<month>July</month>
+  	<year>2023</year>
+	</publication>
+  </magazine>
+</library>

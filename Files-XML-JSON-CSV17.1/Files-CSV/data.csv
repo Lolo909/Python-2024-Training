@@ -1,0 +1,4 @@
+id,type,title,author_name,author_birth_year,publisher,publication_year,month
+1,book,Introduction to XML,John Author,1980,Tech Books Publishing,2022,
+2,book,Data Structures in Java,Jane Writer,1975,Code Press,2021,
+3,magazine,Science Today,Alan Editor,1985,Science Publications,2023,July
