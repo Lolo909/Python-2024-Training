@@ -1,0 +1,19 @@
+[
+      {
+        "id": 1,
+        "task": "Clear room",       
+        "date_created": "7 10 2024 3 11",
+        "date_to_be_completed": "8 10 2024 3 11",
+        "description":"You have to clear your room!",
+        "priority": "low"
+      },
+      {
+        "id": 2,
+        "task": "Wash the dishes",       
+        "date_created": "7 10 2024 3 11",
+        "date_to_be_completed": "8 10 2024 2 11",
+        "description":"You have to wash the dishes before mum get home!",
+        "priority": "top"
+      }
+] 
+  
