@@ -1,0 +1,23 @@
+What is the primary purpose of inheritance in object-oriented programming?
+A. Code reuse and sharing.
+B. Code encapsulation.
+C. Code optimization.
+D. Code abstraction.
+
+Answer: D
+
+In Python, which keyword is used to create a subclass that inherits from a superclass?
+A. extends
+B. inherits
+C. subclass
+D. None of above
+
+Answer: D
+
+What is the significance of an abstract class in Python?
+A. It cannot contain any methods.
+B. It can be instantiated directly.
+C. It serves as a blueprint for other classes.
+D. It can have only concrete methods.
+
+Answer: C
