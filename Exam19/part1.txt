@@ -1,0 +1,52 @@
+What is the result of 7 / 3 in Python, and what data type is the result?
+A. 2.333 (float)
+B. 2 (int)
+C. 2.0 (float)
+D. 3 (int)
+
+Answer: A
+
+
+How do you access the value associated with the key 'age' in a dictionary called person?
+A. person.value('age')
+B. person['age']
+C. person.get('age')
+D. person.value.get('age')
+
+Answer: B
+
+
+Which of the following data types in Python represents a collection of unique elements?
+A. List
+B. Tuple
+C. Set
+D. Dictionary
+
+Answer: C
+
+
+Tuples are immutable in Python. What does this mean?
+A. Tuples cannot be created in Python.
+B. Once a tuple is created, its elements cannot be changed.
+C. Tuples can only contain integers.
+D. Tuples can only be used for mathematical operations.
+
+Answer: B
+
+
+How do you open a file named 'example.txt' in read mode in Python?
+A. file = open('example.txt', 'r')
+B. file = open('example.txt', 'w')
+C. file = open('example.txt', 'a')
+D. file = open('example.txt', 'x')
+
+Answer: A
+
+
+In Python, what is the purpose of the finally block in a try-except-finally construct?
+A. The finally block is executed when an exception is raised in the try block.
+B. The finally block is executed when an exception is not raised in the try block.
+C. The finally block is used to catch and handle exceptions.
+D. The finally block is used to define the code that should always be executed, regardless of whether an exception is raised or not.
+
+Answer: D
